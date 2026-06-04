@@ -1,0 +1,29 @@
+{
+  "id": "git-tutorial/git-ignore-guide",
+  "title": "Git Ignore",
+  "description": "Complete reference for .gitignore, .git/info/exclude, global ignores, pattern syntax, and precedence rules.",
+  "source": "@site/docs/git-tutorial/git-ignore-guide.mdx",
+  "sourceDirName": "git-tutorial",
+  "slug": "/git-tutorial/git-ignore-guide",
+  "permalink": "/knowledge-base/docs/git-tutorial/git-ignore-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/git-tutorial/git-ignore-guide.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Git Ignore",
+    "description": "Complete reference for .gitignore, .git/info/exclude, global ignores, pattern syntax, and precedence rules."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Git Subtree",
+    "permalink": "/knowledge-base/docs/git-tutorial/git-composition-strategy/subtree"
+  },
+  "next": {
+    "title": "Repository Architecture",
+    "permalink": "/knowledge-base/docs/infra/architecture-overview"
+  }
+}

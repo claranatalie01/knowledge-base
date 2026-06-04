@@ -1,0 +1,28 @@
+{
+  "id": "infra/development-environment",
+  "title": "Dev Containers",
+  "description": "我们使用 VS Code Dev Containers 为每位工程师提供一致、隔离且可复用的开发环境。这种方法消除了“在我的机器上可以运行”的问题，并将入职配置时间从几天缩短到几分钟。",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/infra/03-development-environment.mdx",
+  "sourceDirName": "infra",
+  "slug": "/infra/development-environment",
+  "permalink": "/knowledge-base/zh-CN/docs/infra/development-environment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/infra/03-development-environment.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Dev Containers"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "基础设施搭建",
+    "permalink": "/knowledge-base/zh-CN/docs/infra/infrastructure-setup"
+  },
+  "next": {
+    "title": "生产部署",
+    "permalink": "/knowledge-base/zh-CN/docs/infra/production-deployment"
+  }
+}

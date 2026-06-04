@@ -1,0 +1,29 @@
+{
+  "id": "python-tutorial/index",
+  "title": "Python 教學",
+  "description": "本節涵蓋 Python 工程實踐、工具鏈和現代開發工作流。",
+  "source": "@site/i18n/zh-HK/docusaurus-plugin-content-docs/current/python-tutorial/index.mdx",
+  "sourceDirName": "python-tutorial",
+  "slug": "/python-tutorial",
+  "permalink": "/knowledge-base/zh-HK/docs/python-tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/python-tutorial/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "title": "Python 教學",
+    "slug": "/python-tutorial"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "推理優化",
+    "permalink": "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/performance-optimization/inference"
+  },
+  "next": {
+    "title": "Python 工程指南",
+    "permalink": "/knowledge-base/zh-HK/docs/python-tutorial/python-engineering-guide"
+  }
+}

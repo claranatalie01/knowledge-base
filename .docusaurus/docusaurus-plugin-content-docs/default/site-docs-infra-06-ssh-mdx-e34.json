@@ -1,0 +1,29 @@
+{
+  "id": "infra/ssh",
+  "title": "SSH Access Security",
+  "description": "Practical guide to securing access using SSH, including key generation, agent forwarding, and workflow optimization.",
+  "source": "@site/docs/infra/06-ssh.mdx",
+  "sourceDirName": "infra",
+  "slug": "/infra/ssh",
+  "permalink": "/knowledge-base/docs/infra/ssh",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/infra/06-ssh.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "SSH Access Security",
+    "description": "Practical guide to securing access using SSH, including key generation, agent forwarding, and workflow optimization."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Operations",
+    "permalink": "/knowledge-base/docs/infra/operations-troubleshooting"
+  },
+  "next": {
+    "title": "Cloudflare Zero Trust",
+    "permalink": "/knowledge-base/docs/infra/zero-trust-tutorial"
+  }
+}

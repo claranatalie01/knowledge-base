@@ -1,0 +1,29 @@
+{
+  "id": "python-tutorial/index",
+  "title": "Python Tutorial",
+  "description": "This section covers Python engineering practices, tooling, and modern development workflows.",
+  "source": "@site/docs/python-tutorial/index.mdx",
+  "sourceDirName": "python-tutorial",
+  "slug": "/python-tutorial",
+  "permalink": "/knowledge-base/docs/python-tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/python-tutorial/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "title": "Python Tutorial",
+    "slug": "/python-tutorial"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Inference Optimization",
+    "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/performance-optimization/inference"
+  },
+  "next": {
+    "title": "Python Engineering",
+    "permalink": "/knowledge-base/docs/python-tutorial/python-engineering-guide"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "python-tutorial/uv-guide",
+  "title": "uv",
+  "description": "uv 的全面指南，uv 是一個現代 Python 軟件包和項目管理器。",
+  "source": "@site/i18n/zh-HK/docusaurus-plugin-content-docs/current/python-tutorial/uv-guide.mdx",
+  "sourceDirName": "python-tutorial",
+  "slug": "/python-tutorial/uv-guide",
+  "permalink": "/knowledge-base/zh-HK/docs/python-tutorial/uv-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/python-tutorial/uv-guide.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "uv",
+    "description": "uv 的全面指南，uv 是一個現代 Python 軟件包和項目管理器。"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python 匯入系統",
+    "permalink": "/knowledge-base/zh-HK/docs/python-tutorial/python-import-guide"
+  },
+  "next": {
+    "title": "Git 教學",
+    "permalink": "/knowledge-base/zh-HK/docs/git-tutorial"
+  }
+}

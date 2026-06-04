@@ -1,0 +1,29 @@
+{
+  "id": "infra/operations-troubleshooting",
+  "title": "Operations",
+  "description": "Best practices for monitoring, log management, rollback procedures, and common infrastructure troubleshooting.",
+  "source": "@site/docs/infra/05-operations-troubleshooting.mdx",
+  "sourceDirName": "infra",
+  "slug": "/infra/operations-troubleshooting",
+  "permalink": "/knowledge-base/docs/infra/operations-troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/infra/05-operations-troubleshooting.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Operations",
+    "description": "Best practices for monitoring, log management, rollback procedures, and common infrastructure troubleshooting."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Production Deployment",
+    "permalink": "/knowledge-base/docs/infra/production-deployment"
+  },
+  "next": {
+    "title": "SSH Access Security",
+    "permalink": "/knowledge-base/docs/infra/ssh"
+  }
+}

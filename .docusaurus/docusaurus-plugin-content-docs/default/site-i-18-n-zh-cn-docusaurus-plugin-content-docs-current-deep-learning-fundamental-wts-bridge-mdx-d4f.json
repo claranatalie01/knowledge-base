@@ -1,0 +1,29 @@
+{
+  "id": "deep-learning/fundamental/wts-bridge",
+  "title": "WTS 桥接",
+  "description": "用于 TensorRT 的纯文本权重存储。",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/deep-learning/fundamental/wts-bridge.mdx",
+  "sourceDirName": "deep-learning/fundamental",
+  "slug": "/deep-learning/fundamental/wts-bridge",
+  "permalink": "/knowledge-base/zh-CN/docs/deep-learning/fundamental/wts-bridge",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/fundamental/wts-bridge.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "WTS 桥接",
+    "description": "用于 TensorRT 的纯文本权重存储。"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TensorRT Engine",
+    "permalink": "/knowledge-base/zh-CN/docs/deep-learning/fundamental/tensorrt-engine"
+  },
+  "next": {
+    "title": "YOLO 系列",
+    "permalink": "/knowledge-base/zh-CN/docs/deep-learning/cv/yolo-series/"
+  }
+}

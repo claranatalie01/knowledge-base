@@ -1,0 +1,234 @@
+{
+  "/knowledge-base/zh-HK/docs-0a6": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/knowledge-base/zh-HK/docs-fd8": {
+    "__comp": "a7bd4aaa",
+    "__props": "8e3c02f3"
+  },
+  "/knowledge-base/zh-HK/docs-93a": {
+    "__comp": "a94703ab"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/cv/tracknet/-07a": {
+    "__comp": "17896441",
+    "content": "3b4713fb"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/cv/yolo-series/-b9e": {
+    "__comp": "17896441",
+    "content": "d9e617d1"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/fundamental/-bfe": {
+    "__comp": "17896441",
+    "content": "e50eb62c"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/fundamental/onnx-overview-946": {
+    "__comp": "17896441",
+    "content": "6ae60707"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/fundamental/pytorch-pt-guide-2f1": {
+    "__comp": "17896441",
+    "content": "a5d326fb"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/fundamental/tensorrt-engine-be5": {
+    "__comp": "17896441",
+    "content": "57a3b189"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/fundamental/wts-bridge-0b5": {
+    "__comp": "17896441",
+    "content": "f018244e"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/-87a": {
+    "__comp": "17896441",
+    "content": "1e223e66"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/core-components/data/core-logic-845": {
+    "__comp": "17896441",
+    "content": "82eb13ec"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/core-components/data/dataloader-and-samplers-aea": {
+    "__comp": "17896441",
+    "content": "23bce27c"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/core-components/data/dataset-design-059": {
+    "__comp": "17896441",
+    "content": "dc714402"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/core-components/data/dataset-surgery-1bc": {
+    "__comp": "17896441",
+    "content": "950a1b33"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/core-components/models/custom-layers-783": {
+    "__comp": "17896441",
+    "content": "90fbec2c"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/core-components/models/model-surgery-886": {
+    "__comp": "17896441",
+    "content": "f29dffb6"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/core-components/models/nn-module-232": {
+    "__comp": "17896441",
+    "content": "98245d8e"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/core-components/optimization/loss-functions-331": {
+    "__comp": "17896441",
+    "content": "facd4b4c"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/core-components/optimization/optimizers-721": {
+    "__comp": "17896441",
+    "content": "a2afefc3"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/core-components/optimization/schedulers-3c9": {
+    "__comp": "17896441",
+    "content": "09e3bcdd"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/core-components/training-engineering-a23": {
+    "__comp": "17896441",
+    "content": "4a52c825"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/fundamentals/autograd-59b": {
+    "__comp": "17896441",
+    "content": "56131820"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/fundamentals/device-management-c4e": {
+    "__comp": "17896441",
+    "content": "23d975d5"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/fundamentals/serialization-5ad": {
+    "__comp": "17896441",
+    "content": "ba13c849"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/fundamentals/tensor-operations-197": {
+    "__comp": "17896441",
+    "content": "3b169045"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/performance-optimization/compiler-ada": {
+    "__comp": "17896441",
+    "content": "0684d71d"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/performance-optimization/data-pipeline-464": {
+    "__comp": "17896441",
+    "content": "40af993a"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/performance-optimization/inference-c54": {
+    "__comp": "17896441",
+    "content": "7a393cfc"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/performance-optimization/memory-management-d37": {
+    "__comp": "17896441",
+    "content": "c32535c5"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/performance-optimization/mixed-precision-46f": {
+    "__comp": "17896441",
+    "content": "c8c2eecb"
+  },
+  "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/performance-optimization/profiling-556": {
+    "__comp": "17896441",
+    "content": "43720d34"
+  },
+  "/knowledge-base/zh-HK/docs/git-tutorial-b4d": {
+    "__comp": "17896441",
+    "content": "41d12a53"
+  },
+  "/knowledge-base/zh-HK/docs/git-tutorial/git-composition-strategy/-213": {
+    "__comp": "17896441",
+    "content": "16d27e93"
+  },
+  "/knowledge-base/zh-HK/docs/git-tutorial/git-composition-strategy/submodule-f59": {
+    "__comp": "17896441",
+    "content": "8b99e88a"
+  },
+  "/knowledge-base/zh-HK/docs/git-tutorial/git-composition-strategy/subtree-e03": {
+    "__comp": "17896441",
+    "content": "cec74bf7"
+  },
+  "/knowledge-base/zh-HK/docs/git-tutorial/git-hooks-guide-033": {
+    "__comp": "17896441",
+    "content": "041937b1"
+  },
+  "/knowledge-base/zh-HK/docs/git-tutorial/git-ignore-guide-12b": {
+    "__comp": "17896441",
+    "content": "3d243d84"
+  },
+  "/knowledge-base/zh-HK/docs/git-tutorial/git-merge-rebase-cherry-pick-d9f": {
+    "__comp": "17896441",
+    "content": "f027edf9"
+  },
+  "/knowledge-base/zh-HK/docs/git-tutorial/git-workflow-guide-e3e": {
+    "__comp": "17896441",
+    "content": "df8ff526"
+  },
+  "/knowledge-base/zh-HK/docs/infra/architecture-overview-bf6": {
+    "__comp": "17896441",
+    "content": "27d649d5"
+  },
+  "/knowledge-base/zh-HK/docs/infra/development-environment-9d1": {
+    "__comp": "17896441",
+    "content": "cdd65eb1"
+  },
+  "/knowledge-base/zh-HK/docs/infra/infrastructure-setup-b1d": {
+    "__comp": "17896441",
+    "content": "0682b43f"
+  },
+  "/knowledge-base/zh-HK/docs/infra/operations-troubleshooting-565": {
+    "__comp": "17896441",
+    "content": "e8d47c56"
+  },
+  "/knowledge-base/zh-HK/docs/infra/personal-remote-access-860": {
+    "__comp": "17896441",
+    "content": "f421b5d0"
+  },
+  "/knowledge-base/zh-HK/docs/infra/production-deployment-9e6": {
+    "__comp": "17896441",
+    "content": "f3a617d7"
+  },
+  "/knowledge-base/zh-HK/docs/infra/ssh-c30": {
+    "__comp": "17896441",
+    "content": "7fc515b8"
+  },
+  "/knowledge-base/zh-HK/docs/infra/zero-trust-tutorial-729": {
+    "__comp": "17896441",
+    "content": "fd332d75"
+  },
+  "/knowledge-base/zh-HK/docs/LLM/langchain-b4c": {
+    "__comp": "17896441",
+    "content": "f517d103"
+  },
+  "/knowledge-base/zh-HK/docs/python-tutorial-608": {
+    "__comp": "17896441",
+    "content": "2c7f982a"
+  },
+  "/knowledge-base/zh-HK/docs/python-tutorial/pyproject-guide-713": {
+    "__comp": "17896441",
+    "content": "92eb1e8f"
+  },
+  "/knowledge-base/zh-HK/docs/python-tutorial/python-engineering-guide-9b2": {
+    "__comp": "17896441",
+    "content": "eb82fed6"
+  },
+  "/knowledge-base/zh-HK/docs/python-tutorial/python-import-guide-52d": {
+    "__comp": "17896441",
+    "content": "9f578c29"
+  },
+  "/knowledge-base/zh-HK/docs/python-tutorial/uv-guide-ece": {
+    "__comp": "17896441",
+    "content": "7ab4e0de"
+  },
+  "/knowledge-base/zh-HK/docs/RiskControl-a5a": {
+    "__comp": "17896441",
+    "content": "4b6934cc"
+  },
+  "/knowledge-base/zh-HK/docs/template-b72": {
+    "__comp": "17896441",
+    "content": "698c3fb7"
+  },
+  "/knowledge-base/zh-HK/-1e9": {
+    "__comp": "1df93b7f",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}
