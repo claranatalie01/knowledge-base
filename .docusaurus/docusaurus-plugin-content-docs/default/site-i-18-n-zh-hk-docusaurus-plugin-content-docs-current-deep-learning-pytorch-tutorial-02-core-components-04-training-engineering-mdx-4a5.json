@@ -1,0 +1,29 @@
+{
+  "id": "deep-learning/pytorch-tutorial/core-components/training-engineering",
+  "title": "訓練工程",
+  "description": "建構強健的 PyTorch 訓練管線的核心組件，涵蓋從損失函數到部署準備的各個環節。",
+  "source": "@site/i18n/zh-HK/docusaurus-plugin-content-docs/current/deep-learning/pytorch-tutorial/02-core-components/04-training-engineering.mdx",
+  "sourceDirName": "deep-learning/pytorch-tutorial/02-core-components",
+  "slug": "/deep-learning/pytorch-tutorial/core-components/training-engineering",
+  "permalink": "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/core-components/training-engineering",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/pytorch-tutorial/02-core-components/04-training-engineering.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "訓練工程",
+    "description": "建構強健的 PyTorch 訓練管線的核心組件，涵蓋從損失函數到部署準備的各個環節。"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "損失函數",
+    "permalink": "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/core-components/optimization/loss-functions"
+  },
+  "next": {
+    "title": "數據流水線優化",
+    "permalink": "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/performance-optimization/data-pipeline"
+  }
+}

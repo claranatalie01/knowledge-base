@@ -1,0 +1,29 @@
+{
+  "id": "deep-learning/pytorch-tutorial/core-components/data/dataset-design",
+  "title": "数据集设计",
+  "description": "探讨如何设计具备高扩展性的 Dataset 层，以兼容多种数据格式与存储介质。",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/deep-learning/pytorch-tutorial/02-core-components/01-data/02-dataset-design.mdx",
+  "sourceDirName": "deep-learning/pytorch-tutorial/02-core-components/01-data",
+  "slug": "/deep-learning/pytorch-tutorial/core-components/data/dataset-design",
+  "permalink": "/knowledge-base/zh-CN/docs/deep-learning/pytorch-tutorial/core-components/data/dataset-design",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/pytorch-tutorial/02-core-components/01-data/02-dataset-design.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "数据集设计",
+    "description": "探讨如何设计具备高扩展性的 Dataset 层，以兼容多种数据格式与存储介质。"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "数据管线",
+    "permalink": "/knowledge-base/zh-CN/docs/deep-learning/pytorch-tutorial/core-components/data/core-logic"
+  },
+  "next": {
+    "title": "DataLoader 和采样器",
+    "permalink": "/knowledge-base/zh-CN/docs/deep-learning/pytorch-tutorial/core-components/data/dataloader-and-samplers"
+  }
+}

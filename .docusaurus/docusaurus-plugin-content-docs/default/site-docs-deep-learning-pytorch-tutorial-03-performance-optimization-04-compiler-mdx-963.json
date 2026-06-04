@@ -1,0 +1,29 @@
+{
+  "id": "deep-learning/pytorch-tutorial/performance-optimization/compiler",
+  "title": "Model Compilation",
+  "description": "Accelerate training and inference using torch.compile.",
+  "source": "@site/docs/deep-learning/pytorch-tutorial/03-performance-optimization/04-compiler.mdx",
+  "sourceDirName": "deep-learning/pytorch-tutorial/03-performance-optimization",
+  "slug": "/deep-learning/pytorch-tutorial/performance-optimization/compiler",
+  "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/performance-optimization/compiler",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/pytorch-tutorial/03-performance-optimization/04-compiler.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Model Compilation",
+    "description": "Accelerate training and inference using torch.compile."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Memory Optimization",
+    "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/performance-optimization/memory-management"
+  },
+  "next": {
+    "title": "Profiling and Bottlenecks",
+    "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/performance-optimization/profiling"
+  }
+}

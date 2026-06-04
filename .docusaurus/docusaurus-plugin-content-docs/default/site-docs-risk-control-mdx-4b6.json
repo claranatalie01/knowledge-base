@@ -1,0 +1,29 @@
+{
+  "id": "RiskControl",
+  "title": "Risk Control Playbook",
+  "description": "Systemic strategies for project takeover and talent classification.",
+  "source": "@site/docs/RiskControl.mdx",
+  "sourceDirName": ".",
+  "slug": "/RiskControl",
+  "permalink": "/knowledge-base/zh-HK/docs/RiskControl",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/RiskControl.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Risk Control Playbook",
+    "description": "Systemic strategies for project takeover and talent classification."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "個人遠端存取",
+    "permalink": "/knowledge-base/zh-HK/docs/infra/personal-remote-access"
+  },
+  "next": {
+    "title": "Documentation Template",
+    "permalink": "/knowledge-base/zh-HK/docs/template"
+  }
+}

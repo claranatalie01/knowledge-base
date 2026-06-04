@@ -1,0 +1,29 @@
+{
+  "id": "deep-learning/pytorch-tutorial/fundamentals/device-management",
+  "title": "Device Management",
+  "description": "Managing PyTorch tensors and models across CPU and GPUs.",
+  "source": "@site/docs/deep-learning/pytorch-tutorial/01-fundamentals/03-device-management.mdx",
+  "sourceDirName": "deep-learning/pytorch-tutorial/01-fundamentals",
+  "slug": "/deep-learning/pytorch-tutorial/fundamentals/device-management",
+  "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/fundamentals/device-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/pytorch-tutorial/01-fundamentals/03-device-management.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Device Management",
+    "description": "Managing PyTorch tensors and models across CPU and GPUs."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Autograd Mechanics",
+    "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/fundamentals/autograd"
+  },
+  "next": {
+    "title": "Serialization",
+    "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/fundamentals/serialization"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "python-tutorial/python-engineering-guide",
+  "title": "Python 工程指南",
+  "description": "現代 Python 開發不僅僅是編寫代碼，更是構建可復現、可維護且高性能的系統。本指南重點介紹現代的 Astral (uv/Ruff) 技術棧。",
+  "source": "@site/i18n/zh-HK/docusaurus-plugin-content-docs/current/python-tutorial/python-engineering-guide.mdx",
+  "sourceDirName": "python-tutorial",
+  "slug": "/python-tutorial/python-engineering-guide",
+  "permalink": "/knowledge-base/zh-HK/docs/python-tutorial/python-engineering-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/python-tutorial/python-engineering-guide.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Python 工程指南"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python 教學",
+    "permalink": "/knowledge-base/zh-HK/docs/python-tutorial"
+  },
+  "next": {
+    "title": "pyproject.toml",
+    "permalink": "/knowledge-base/zh-HK/docs/python-tutorial/pyproject-guide"
+  }
+}

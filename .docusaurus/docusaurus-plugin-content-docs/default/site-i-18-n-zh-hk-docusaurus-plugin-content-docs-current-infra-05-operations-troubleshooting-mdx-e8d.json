@@ -1,0 +1,29 @@
+{
+  "id": "infra/operations-troubleshooting",
+  "title": "運維",
+  "description": "監控、日誌管理、回滾程序以及常見基礎設施故障排查的最佳實踐。",
+  "source": "@site/i18n/zh-HK/docusaurus-plugin-content-docs/current/infra/05-operations-troubleshooting.mdx",
+  "sourceDirName": "infra",
+  "slug": "/infra/operations-troubleshooting",
+  "permalink": "/knowledge-base/zh-HK/docs/infra/operations-troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/infra/05-operations-troubleshooting.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "運維",
+    "description": "監控、日誌管理、回滾程序以及常見基礎設施故障排查的最佳實踐。"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "生產部署",
+    "permalink": "/knowledge-base/zh-HK/docs/infra/production-deployment"
+  },
+  "next": {
+    "title": "SSH 存取安全",
+    "permalink": "/knowledge-base/zh-HK/docs/infra/ssh"
+  }
+}

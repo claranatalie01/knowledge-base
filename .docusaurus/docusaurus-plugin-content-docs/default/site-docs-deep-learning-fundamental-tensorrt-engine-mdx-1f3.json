@@ -1,0 +1,29 @@
+{
+  "id": "deep-learning/fundamental/tensorrt-engine",
+  "title": "TensorRT Engines",
+  "description": "High-performance inference formats for NVIDIA GPUs.",
+  "source": "@site/docs/deep-learning/fundamental/tensorrt-engine.mdx",
+  "sourceDirName": "deep-learning/fundamental",
+  "slug": "/deep-learning/fundamental/tensorrt-engine",
+  "permalink": "/knowledge-base/docs/deep-learning/fundamental/tensorrt-engine",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/fundamental/tensorrt-engine.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "TensorRT Engines",
+    "description": "High-performance inference formats for NVIDIA GPUs."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ONNX",
+    "permalink": "/knowledge-base/docs/deep-learning/fundamental/onnx-overview"
+  },
+  "next": {
+    "title": "WTS Bridge",
+    "permalink": "/knowledge-base/docs/deep-learning/fundamental/wts-bridge"
+  }
+}

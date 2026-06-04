@@ -1,0 +1,29 @@
+{
+  "id": "deep-learning/fundamental/pytorch-pt-guide",
+  "title": "PyTorch Checkpoints",
+  "description": "Understanding PyTorch's native model storage formats.",
+  "source": "@site/docs/deep-learning/fundamental/pytorch-pt-guide.mdx",
+  "sourceDirName": "deep-learning/fundamental",
+  "slug": "/deep-learning/fundamental/pytorch-pt-guide",
+  "permalink": "/knowledge-base/docs/deep-learning/fundamental/pytorch-pt-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/fundamental/pytorch-pt-guide.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "PyTorch Checkpoints",
+    "description": "Understanding PyTorch's native model storage formats."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Model Files",
+    "permalink": "/knowledge-base/docs/deep-learning/fundamental/"
+  },
+  "next": {
+    "title": "ONNX",
+    "permalink": "/knowledge-base/docs/deep-learning/fundamental/onnx-overview"
+  }
+}

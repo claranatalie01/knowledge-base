@@ -1,0 +1,29 @@
+{
+  "id": "deep-learning/pytorch-tutorial/core-components/models/nn-module",
+  "title": "nn.Module",
+  "description": "深入探究 torch.nn.Module 的设计哲学、状态管理机制以及最佳实践。",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/deep-learning/pytorch-tutorial/02-core-components/02-models/01-nn-module.mdx",
+  "sourceDirName": "deep-learning/pytorch-tutorial/02-core-components/02-models",
+  "slug": "/deep-learning/pytorch-tutorial/core-components/models/nn-module",
+  "permalink": "/knowledge-base/zh-CN/docs/deep-learning/pytorch-tutorial/core-components/models/nn-module",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/pytorch-tutorial/02-core-components/02-models/01-nn-module.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "nn.Module",
+    "description": "深入探究 torch.nn.Module 的设计哲学、状态管理机制以及最佳实践。"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "数据集修改",
+    "permalink": "/knowledge-base/zh-CN/docs/deep-learning/pytorch-tutorial/core-components/data/dataset-surgery"
+  },
+  "next": {
+    "title": "自定义层",
+    "permalink": "/knowledge-base/zh-CN/docs/deep-learning/pytorch-tutorial/core-components/models/custom-layers"
+  }
+}

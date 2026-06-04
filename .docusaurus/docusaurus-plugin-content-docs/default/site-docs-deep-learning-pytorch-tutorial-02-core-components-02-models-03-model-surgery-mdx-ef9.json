@@ -1,0 +1,29 @@
+{
+  "id": "deep-learning/pytorch-tutorial/core-components/models/model-surgery",
+  "title": "Model Surgery",
+  "description": "A practical guide to inspecting, modifying, and extracting features from pretrained PyTorch models.",
+  "source": "@site/docs/deep-learning/pytorch-tutorial/02-core-components/02-models/03-model-surgery.mdx",
+  "sourceDirName": "deep-learning/pytorch-tutorial/02-core-components/02-models",
+  "slug": "/deep-learning/pytorch-tutorial/core-components/models/model-surgery",
+  "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/core-components/models/model-surgery",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/pytorch-tutorial/02-core-components/02-models/03-model-surgery.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Model Surgery",
+    "description": "A practical guide to inspecting, modifying, and extracting features from pretrained PyTorch models."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Custom Layers",
+    "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/core-components/models/custom-layers"
+  },
+  "next": {
+    "title": "Optimizers",
+    "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/core-components/optimization/optimizers"
+  }
+}

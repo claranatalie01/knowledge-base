@@ -1,0 +1,29 @@
+{
+  "id": "deep-learning/pytorch-tutorial/core-components/models/custom-layers",
+  "title": "Custom Layers",
+  "description": "Build advanced architectures and understand parameter initialization strategies in PyTorch.",
+  "source": "@site/docs/deep-learning/pytorch-tutorial/02-core-components/02-models/02-custom-layers.mdx",
+  "sourceDirName": "deep-learning/pytorch-tutorial/02-core-components/02-models",
+  "slug": "/deep-learning/pytorch-tutorial/core-components/models/custom-layers",
+  "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/core-components/models/custom-layers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/pytorch-tutorial/02-core-components/02-models/02-custom-layers.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Custom Layers",
+    "description": "Build advanced architectures and understand parameter initialization strategies in PyTorch."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nn.Module",
+    "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/core-components/models/nn-module"
+  },
+  "next": {
+    "title": "Model Surgery",
+    "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/core-components/models/model-surgery"
+  }
+}

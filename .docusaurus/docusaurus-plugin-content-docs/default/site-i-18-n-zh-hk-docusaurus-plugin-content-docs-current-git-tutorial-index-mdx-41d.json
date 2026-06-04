@@ -1,0 +1,29 @@
+{
+  "id": "git-tutorial/index",
+  "title": "Git 教學",
+  "description": "本章節提供關於 Git 工作流、分支策略以及協作開發最佳實踐的全面指南。",
+  "source": "@site/i18n/zh-HK/docusaurus-plugin-content-docs/current/git-tutorial/index.mdx",
+  "sourceDirName": "git-tutorial",
+  "slug": "/git-tutorial",
+  "permalink": "/knowledge-base/zh-HK/docs/git-tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/git-tutorial/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "title": "Git 教學",
+    "slug": "/git-tutorial"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "uv",
+    "permalink": "/knowledge-base/zh-HK/docs/python-tutorial/uv-guide"
+  },
+  "next": {
+    "title": "Git 工作流",
+    "permalink": "/knowledge-base/zh-HK/docs/git-tutorial/git-workflow-guide"
+  }
+}
