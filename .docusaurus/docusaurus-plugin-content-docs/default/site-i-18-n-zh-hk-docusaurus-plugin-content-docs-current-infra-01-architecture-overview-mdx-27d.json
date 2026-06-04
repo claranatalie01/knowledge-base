@@ -1,0 +1,28 @@
+{
+  "id": "infra/architecture-overview",
+  "title": "儲存庫架構",
+  "description": "選擇代碼倉庫策略是多服務平台的基礎決策。選擇 Monorepo（單體倉庫）還是 Polyrepo（多倉庫）取決於團隊規模、發布頻率以及組織需求。",
+  "source": "@site/i18n/zh-HK/docusaurus-plugin-content-docs/current/infra/01-architecture-overview.mdx",
+  "sourceDirName": "infra",
+  "slug": "/infra/architecture-overview",
+  "permalink": "/knowledge-base/zh-HK/docs/infra/architecture-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/infra/01-architecture-overview.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "儲存庫架構"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Git Ignore",
+    "permalink": "/knowledge-base/zh-HK/docs/git-tutorial/git-ignore-guide"
+  },
+  "next": {
+    "title": "基礎設施搭建",
+    "permalink": "/knowledge-base/zh-HK/docs/infra/infrastructure-setup"
+  }
+}

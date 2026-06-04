@@ -1,0 +1,29 @@
+{
+  "id": "deep-learning/pytorch-tutorial/core-components/models/model-surgery",
+  "title": "模型修改",
+  "description": "针对预训练 PyTorch 模型进行结构探查、子模块替换与中间特征提取的实战指南。",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/deep-learning/pytorch-tutorial/02-core-components/02-models/03-model-surgery.mdx",
+  "sourceDirName": "deep-learning/pytorch-tutorial/02-core-components/02-models",
+  "slug": "/deep-learning/pytorch-tutorial/core-components/models/model-surgery",
+  "permalink": "/knowledge-base/zh-CN/docs/deep-learning/pytorch-tutorial/core-components/models/model-surgery",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/pytorch-tutorial/02-core-components/02-models/03-model-surgery.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "模型修改",
+    "description": "针对预训练 PyTorch 模型进行结构探查、子模块替换与中间特征提取的实战指南。"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "自定义层",
+    "permalink": "/knowledge-base/zh-CN/docs/deep-learning/pytorch-tutorial/core-components/models/custom-layers"
+  },
+  "next": {
+    "title": "优化器",
+    "permalink": "/knowledge-base/zh-CN/docs/deep-learning/pytorch-tutorial/core-components/optimization/optimizers"
+  }
+}

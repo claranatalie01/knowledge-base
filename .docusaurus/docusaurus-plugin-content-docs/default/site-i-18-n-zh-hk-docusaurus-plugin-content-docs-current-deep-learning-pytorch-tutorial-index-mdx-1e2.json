@@ -1,0 +1,26 @@
+{
+  "id": "deep-learning/pytorch-tutorial/index",
+  "title": "PyTorch 教學",
+  "description": "PyTorch 是一個用於 Python 的開源機器學習框架，廣泛用於研究與生產環境。它的兩個核心特性是：",
+  "source": "@site/i18n/zh-HK/docusaurus-plugin-content-docs/current/deep-learning/pytorch-tutorial/index.mdx",
+  "sourceDirName": "deep-learning/pytorch-tutorial",
+  "slug": "/deep-learning/pytorch-tutorial/",
+  "permalink": "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/pytorch-tutorial/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "PyTorch 教學"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TrackNet",
+    "permalink": "/knowledge-base/zh-HK/docs/deep-learning/cv/tracknet/"
+  },
+  "next": {
+    "title": "張量操作",
+    "permalink": "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/fundamentals/tensor-operations"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "deep-learning/pytorch-tutorial/performance-optimization/memory-management",
+  "title": "記憶體優化",
+  "description": "將更大的模型和批次放入有限 GPU VRAM 中的技術。",
+  "source": "@site/i18n/zh-HK/docusaurus-plugin-content-docs/current/deep-learning/pytorch-tutorial/03-performance-optimization/03-memory-management.mdx",
+  "sourceDirName": "deep-learning/pytorch-tutorial/03-performance-optimization",
+  "slug": "/deep-learning/pytorch-tutorial/performance-optimization/memory-management",
+  "permalink": "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/performance-optimization/memory-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/pytorch-tutorial/03-performance-optimization/03-memory-management.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "記憶體優化",
+    "description": "將更大的模型和批次放入有限 GPU VRAM 中的技術。"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "混合精度訓練",
+    "permalink": "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/performance-optimization/mixed-precision"
+  },
+  "next": {
+    "title": "模型編譯",
+    "permalink": "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/performance-optimization/compiler"
+  }
+}

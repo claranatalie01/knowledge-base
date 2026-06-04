@@ -1,0 +1,29 @@
+{
+  "id": "deep-learning/pytorch-tutorial/core-components/data/dataset-surgery",
+  "title": "数据集修改",
+  "description": "在不重写底层代码的前提下，使用包装器、子集划分、数据集拼接等技巧来客制化 PyTorch 数据集与 DataLoader 的实战指南。",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/deep-learning/pytorch-tutorial/02-core-components/01-data/04-dataset-surgery.mdx",
+  "sourceDirName": "deep-learning/pytorch-tutorial/02-core-components/01-data",
+  "slug": "/deep-learning/pytorch-tutorial/core-components/data/dataset-surgery",
+  "permalink": "/knowledge-base/zh-CN/docs/deep-learning/pytorch-tutorial/core-components/data/dataset-surgery",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/pytorch-tutorial/02-core-components/01-data/04-dataset-surgery.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "数据集修改",
+    "description": "在不重写底层代码的前提下，使用包装器、子集划分、数据集拼接等技巧来客制化 PyTorch 数据集与 DataLoader 的实战指南。"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DataLoader 和采样器",
+    "permalink": "/knowledge-base/zh-CN/docs/deep-learning/pytorch-tutorial/core-components/data/dataloader-and-samplers"
+  },
+  "next": {
+    "title": "nn.Module",
+    "permalink": "/knowledge-base/zh-CN/docs/deep-learning/pytorch-tutorial/core-components/models/nn-module"
+  }
+}

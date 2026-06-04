@@ -1,0 +1,29 @@
+{
+  "id": "deep-learning/pytorch-tutorial/fundamentals/serialization",
+  "title": "序列化",
+  "description": "保存与加载 PyTorch 模型和张量。",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/deep-learning/pytorch-tutorial/01-fundamentals/04-serialization.mdx",
+  "sourceDirName": "deep-learning/pytorch-tutorial/01-fundamentals",
+  "slug": "/deep-learning/pytorch-tutorial/fundamentals/serialization",
+  "permalink": "/knowledge-base/zh-CN/docs/deep-learning/pytorch-tutorial/fundamentals/serialization",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/pytorch-tutorial/01-fundamentals/04-serialization.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "序列化",
+    "description": "保存与加载 PyTorch 模型和张量。"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "设备管理",
+    "permalink": "/knowledge-base/zh-CN/docs/deep-learning/pytorch-tutorial/fundamentals/device-management"
+  },
+  "next": {
+    "title": "数据管线",
+    "permalink": "/knowledge-base/zh-CN/docs/deep-learning/pytorch-tutorial/core-components/data/core-logic"
+  }
+}

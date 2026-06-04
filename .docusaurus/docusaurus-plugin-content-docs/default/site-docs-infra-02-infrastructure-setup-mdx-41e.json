@@ -1,0 +1,29 @@
+{
+  "id": "infra/infrastructure-setup",
+  "title": "Infrastructure Setup",
+  "description": "Guide to standardized local infrastructure orchestration using Docker Compose, focusing on layered and profile-driven configurations.",
+  "source": "@site/docs/infra/02-infrastructure-setup.mdx",
+  "sourceDirName": "infra",
+  "slug": "/infra/infrastructure-setup",
+  "permalink": "/knowledge-base/docs/infra/infrastructure-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/infra/02-infrastructure-setup.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Infrastructure Setup",
+    "description": "Guide to standardized local infrastructure orchestration using Docker Compose, focusing on layered and profile-driven configurations."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Repository Architecture",
+    "permalink": "/knowledge-base/docs/infra/architecture-overview"
+  },
+  "next": {
+    "title": "Dev Containers",
+    "permalink": "/knowledge-base/docs/infra/development-environment"
+  }
+}

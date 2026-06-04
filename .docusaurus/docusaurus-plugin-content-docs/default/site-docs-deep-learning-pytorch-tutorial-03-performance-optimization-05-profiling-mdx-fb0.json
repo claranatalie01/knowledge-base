@@ -1,0 +1,29 @@
+{
+  "id": "deep-learning/pytorch-tutorial/performance-optimization/profiling",
+  "title": "Profiling and Bottlenecks",
+  "description": "Identify performance bottlenecks using PyTorch Profiler.",
+  "source": "@site/docs/deep-learning/pytorch-tutorial/03-performance-optimization/05-profiling.mdx",
+  "sourceDirName": "deep-learning/pytorch-tutorial/03-performance-optimization",
+  "slug": "/deep-learning/pytorch-tutorial/performance-optimization/profiling",
+  "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/performance-optimization/profiling",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/pytorch-tutorial/03-performance-optimization/05-profiling.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Profiling and Bottlenecks",
+    "description": "Identify performance bottlenecks using PyTorch Profiler."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Model Compilation",
+    "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/performance-optimization/compiler"
+  },
+  "next": {
+    "title": "Inference Optimization",
+    "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/performance-optimization/inference"
+  }
+}

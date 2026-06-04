@@ -1,0 +1,27 @@
+{
+  "id": "git-tutorial/git-composition-strategy/subtree",
+  "title": "Git Subtree 完整指南",
+  "description": "在專案中嵌入外部倉庫，無需獨立指標檔案",
+  "source": "@site/i18n/zh-HK/docusaurus-plugin-content-docs/current/git-tutorial/git-composition-strategy/subtree.mdx",
+  "sourceDirName": "git-tutorial/git-composition-strategy",
+  "slug": "/git-tutorial/git-composition-strategy/subtree",
+  "permalink": "/knowledge-base/zh-HK/docs/git-tutorial/git-composition-strategy/subtree",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/git-tutorial/git-composition-strategy/subtree.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Git Submodule 完整指南",
+    "permalink": "/knowledge-base/zh-HK/docs/git-tutorial/git-composition-strategy/submodule"
+  },
+  "next": {
+    "title": "Git Ignore",
+    "permalink": "/knowledge-base/zh-HK/docs/git-tutorial/git-ignore-guide"
+  }
+}

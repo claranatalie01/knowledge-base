@@ -1,0 +1,29 @@
+{
+  "id": "python-tutorial/python-import-guide",
+  "title": "Python 匯入系統",
+  "description": "Python 匯入機制綜合指南，涵蓋絕對匯入與相對匯入、模組解析和工程最佳實踐。",
+  "source": "@site/i18n/zh-HK/docusaurus-plugin-content-docs/current/python-tutorial/python-import-guide.mdx",
+  "sourceDirName": "python-tutorial",
+  "slug": "/python-tutorial/python-import-guide",
+  "permalink": "/knowledge-base/zh-HK/docs/python-tutorial/python-import-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/python-tutorial/python-import-guide.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Python 匯入系統",
+    "description": "Python 匯入機制綜合指南，涵蓋絕對匯入與相對匯入、模組解析和工程最佳實踐。"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pyproject.toml",
+    "permalink": "/knowledge-base/zh-HK/docs/python-tutorial/pyproject-guide"
+  },
+  "next": {
+    "title": "uv",
+    "permalink": "/knowledge-base/zh-HK/docs/python-tutorial/uv-guide"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "infra/development-environment",
+  "title": "Dev Containers",
+  "description": "Comprehensive guide to using VS Code Dev Containers for consistent, isolated, and reproducible development workflows.",
+  "source": "@site/docs/infra/03-development-environment.mdx",
+  "sourceDirName": "infra",
+  "slug": "/infra/development-environment",
+  "permalink": "/knowledge-base/docs/infra/development-environment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/infra/03-development-environment.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Dev Containers",
+    "description": "Comprehensive guide to using VS Code Dev Containers for consistent, isolated, and reproducible development workflows."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Infrastructure Setup",
+    "permalink": "/knowledge-base/docs/infra/infrastructure-setup"
+  },
+  "next": {
+    "title": "Production Deployment",
+    "permalink": "/knowledge-base/docs/infra/production-deployment"
+  }
+}

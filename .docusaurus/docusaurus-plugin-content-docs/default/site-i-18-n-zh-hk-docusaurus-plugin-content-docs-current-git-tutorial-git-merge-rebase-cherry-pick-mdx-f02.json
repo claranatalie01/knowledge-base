@@ -1,0 +1,28 @@
+{
+  "id": "git-tutorial/git-merge-rebase-cherry-pick",
+  "title": "Merge、Rebase 與 Cherry-Pick",
+  "description": "正確整合變更及重寫歷史的方法",
+  "source": "@site/i18n/zh-HK/docusaurus-plugin-content-docs/current/git-tutorial/git-merge-rebase-cherry-pick.mdx",
+  "sourceDirName": "git-tutorial",
+  "slug": "/git-tutorial/git-merge-rebase-cherry-pick",
+  "permalink": "/knowledge-base/zh-HK/docs/git-tutorial/git-merge-rebase-cherry-pick",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/git-tutorial/git-merge-rebase-cherry-pick.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Merge、Rebase 與 Cherry-Pick"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Git 工作流",
+    "permalink": "/knowledge-base/zh-HK/docs/git-tutorial/git-workflow-guide"
+  },
+  "next": {
+    "title": "Git Hooks 工程指南",
+    "permalink": "/knowledge-base/zh-HK/docs/git-tutorial/git-hooks-guide"
+  }
+}

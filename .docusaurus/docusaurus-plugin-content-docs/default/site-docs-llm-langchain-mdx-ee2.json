@@ -1,0 +1,20 @@
+{
+  "id": "LLM/Langchain",
+  "title": "LangChain Framework",
+  "description": "LangChain is a toolkit for building LLM-powered applications. It handles prompts, memory, document search (RAG), tool calling, and multi‑agent workflows – integrated with uv for fast, reproducible Python environments.",
+  "source": "@site/docs/LLM/Langchain.mdx",
+  "sourceDirName": "LLM",
+  "slug": "/LLM/Langchain",
+  "permalink": "/knowledge-base/zh-HK/docs/LLM/Langchain",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/LLM/Langchain.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Documentation Template",
+    "permalink": "/knowledge-base/zh-HK/docs/template"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "deep-learning/pytorch-tutorial/performance-optimization/mixed-precision",
+  "title": "Mixed Precision Training",
+  "description": "Accelerate training and reduce VRAM usage using AMP (Automatic Mixed Precision).",
+  "source": "@site/docs/deep-learning/pytorch-tutorial/03-performance-optimization/02-mixed-precision.mdx",
+  "sourceDirName": "deep-learning/pytorch-tutorial/03-performance-optimization",
+  "slug": "/deep-learning/pytorch-tutorial/performance-optimization/mixed-precision",
+  "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/performance-optimization/mixed-precision",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/pytorch-tutorial/03-performance-optimization/02-mixed-precision.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Mixed Precision Training",
+    "description": "Accelerate training and reduce VRAM usage using AMP (Automatic Mixed Precision)."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Pipeline Optimization",
+    "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/performance-optimization/data-pipeline"
+  },
+  "next": {
+    "title": "Memory Optimization",
+    "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/performance-optimization/memory-management"
+  }
+}

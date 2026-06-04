@@ -1,0 +1,29 @@
+{
+  "id": "infra/personal-remote-access",
+  "title": "Personal Remote Access",
+  "description": "Simple guide for setting up personal remote access (SSH) to your work machine using Twingate or Tailscale.",
+  "source": "@site/docs/infra/08-personal-remote-access.mdx",
+  "sourceDirName": "infra",
+  "slug": "/infra/personal-remote-access",
+  "permalink": "/knowledge-base/docs/infra/personal-remote-access",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/infra/08-personal-remote-access.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "Personal Remote Access",
+    "description": "Simple guide for setting up personal remote access (SSH) to your work machine using Twingate or Tailscale."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cloudflare Zero Trust",
+    "permalink": "/knowledge-base/docs/infra/zero-trust-tutorial"
+  },
+  "next": {
+    "title": "Risk Control Playbook",
+    "permalink": "/knowledge-base/docs/RiskControl"
+  }
+}

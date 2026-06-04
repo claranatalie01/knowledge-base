@@ -1,0 +1,27 @@
+{
+  "id": "git-tutorial/git-composition-strategy/index",
+  "title": "Git 組合策略",
+  "description": "在 Submodule 與 Subtree 之間做出明智選擇",
+  "source": "@site/i18n/zh-HK/docusaurus-plugin-content-docs/current/git-tutorial/git-composition-strategy/index.mdx",
+  "sourceDirName": "git-tutorial/git-composition-strategy",
+  "slug": "/git-tutorial/git-composition-strategy/",
+  "permalink": "/knowledge-base/zh-HK/docs/git-tutorial/git-composition-strategy/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/git-tutorial/git-composition-strategy/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Git Hooks 工程指南",
+    "permalink": "/knowledge-base/zh-HK/docs/git-tutorial/git-hooks-guide"
+  },
+  "next": {
+    "title": "Git Submodule 完整指南",
+    "permalink": "/knowledge-base/zh-HK/docs/git-tutorial/git-composition-strategy/submodule"
+  }
+}
