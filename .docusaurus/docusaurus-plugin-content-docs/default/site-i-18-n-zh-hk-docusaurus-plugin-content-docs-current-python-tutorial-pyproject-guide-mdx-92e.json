@@ -1,0 +1,29 @@
+{
+  "id": "python-tutorial/pyproject-guide",
+  "title": "pyproject.toml",
+  "description": "pyproject.toml 綜合指南，現代 Python 項目的標準化配置文件。",
+  "source": "@site/i18n/zh-HK/docusaurus-plugin-content-docs/current/python-tutorial/pyproject-guide.mdx",
+  "sourceDirName": "python-tutorial",
+  "slug": "/python-tutorial/pyproject-guide",
+  "permalink": "/knowledge-base/zh-HK/docs/python-tutorial/pyproject-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/python-tutorial/pyproject-guide.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "pyproject.toml",
+    "description": "pyproject.toml 綜合指南，現代 Python 項目的標準化配置文件。"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python 工程指南",
+    "permalink": "/knowledge-base/zh-HK/docs/python-tutorial/python-engineering-guide"
+  },
+  "next": {
+    "title": "Python 匯入系統",
+    "permalink": "/knowledge-base/zh-HK/docs/python-tutorial/python-import-guide"
+  }
+}

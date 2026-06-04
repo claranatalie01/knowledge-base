@@ -1,0 +1,25 @@
+{
+  "id": "deep-learning/fundamental/index",
+  "title": "Model Files",
+  "description": "Overview of common deep learning model formats and their relationships.",
+  "source": "@site/docs/deep-learning/fundamental/index.mdx",
+  "sourceDirName": "deep-learning/fundamental",
+  "slug": "/deep-learning/fundamental/",
+  "permalink": "/knowledge-base/docs/deep-learning/fundamental/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/fundamental/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "title": "Model Files",
+    "description": "Overview of common deep learning model formats and their relationships."
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "PyTorch Checkpoints",
+    "permalink": "/knowledge-base/docs/deep-learning/fundamental/pytorch-pt-guide"
+  }
+}

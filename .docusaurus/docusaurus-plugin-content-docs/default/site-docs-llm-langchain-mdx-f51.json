@@ -1,0 +1,20 @@
+{
+  "id": "LLM/langchain",
+  "title": "LangChain Framework",
+  "description": "LangChain is a toolkit for building applications powered by large language models (LLMs).",
+  "source": "@site/docs/LLM/langchain.mdx",
+  "sourceDirName": "LLM",
+  "slug": "/LLM/langchain",
+  "permalink": "/knowledge-base/zh-HK/docs/LLM/langchain",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SAILTECHTEAM/knowledge-base/tree/main/docs/LLM/langchain.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Documentation Template",
+    "permalink": "/knowledge-base/zh-HK/docs/template"
+  }
+}

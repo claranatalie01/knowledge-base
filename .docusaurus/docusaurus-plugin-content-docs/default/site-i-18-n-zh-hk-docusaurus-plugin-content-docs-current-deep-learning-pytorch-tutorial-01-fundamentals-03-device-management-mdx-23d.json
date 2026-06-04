@@ -1,0 +1,29 @@
+{
+  "id": "deep-learning/pytorch-tutorial/fundamentals/device-management",
+  "title": "裝置管理",
+  "description": "在 CPU 和 GPU 之間管理 PyTorch 張量與模型。",
+  "source": "@site/i18n/zh-HK/docusaurus-plugin-content-docs/current/deep-learning/pytorch-tutorial/01-fundamentals/03-device-management.mdx",
+  "sourceDirName": "deep-learning/pytorch-tutorial/01-fundamentals",
+  "slug": "/deep-learning/pytorch-tutorial/fundamentals/device-management",
+  "permalink": "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/fundamentals/device-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/pytorch-tutorial/01-fundamentals/03-device-management.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "裝置管理",
+    "description": "在 CPU 和 GPU 之間管理 PyTorch 張量與模型。"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "自動求導機制",
+    "permalink": "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/fundamentals/autograd"
+  },
+  "next": {
+    "title": "序列化",
+    "permalink": "/knowledge-base/zh-HK/docs/deep-learning/pytorch-tutorial/fundamentals/serialization"
+  }
+}

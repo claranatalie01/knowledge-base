@@ -1,0 +1,28 @@
+{
+  "id": "infra/production-deployment",
+  "title": "生產部署",
+  "description": "我們的部署策略側重於 環境一致性、不可變鏡像 和 自動化流水線。我們確保在推送到生產環境之前，在預發佈 (Staging) 環境中驗證完全相同的構建產物。",
+  "source": "@site/i18n/zh-HK/docusaurus-plugin-content-docs/current/infra/04-production-deployment.mdx",
+  "sourceDirName": "infra",
+  "slug": "/infra/production-deployment",
+  "permalink": "/knowledge-base/zh-HK/docs/infra/production-deployment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/infra/04-production-deployment.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "生產部署"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dev Containers",
+    "permalink": "/knowledge-base/zh-HK/docs/infra/development-environment"
+  },
+  "next": {
+    "title": "運維",
+    "permalink": "/knowledge-base/zh-HK/docs/infra/operations-troubleshooting"
+  }
+}

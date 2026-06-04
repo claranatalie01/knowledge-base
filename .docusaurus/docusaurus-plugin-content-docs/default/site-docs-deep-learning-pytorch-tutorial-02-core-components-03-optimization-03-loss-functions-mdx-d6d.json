@@ -1,0 +1,29 @@
+{
+  "id": "deep-learning/pytorch-tutorial/core-components/optimization/loss-functions",
+  "title": "Loss Functions",
+  "description": "Objective functions for different deep learning tasks and how to implement custom loss modules.",
+  "source": "@site/docs/deep-learning/pytorch-tutorial/02-core-components/03-optimization/03-loss-functions.mdx",
+  "sourceDirName": "deep-learning/pytorch-tutorial/02-core-components/03-optimization",
+  "slug": "/deep-learning/pytorch-tutorial/core-components/optimization/loss-functions",
+  "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/core-components/optimization/loss-functions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/pytorch-tutorial/02-core-components/03-optimization/03-loss-functions.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Loss Functions",
+    "description": "Objective functions for different deep learning tasks and how to implement custom loss modules."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Learning Rate Schedulers",
+    "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/core-components/optimization/schedulers"
+  },
+  "next": {
+    "title": "Training Engineering",
+    "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/core-components/training-engineering"
+  }
+}

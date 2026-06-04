@@ -1,0 +1,27 @@
+{
+  "id": "deep-learning/cv/yolo-series/index",
+  "title": "YOLO 系列",
+  "description": "You Only Look Once — 即時目標檢測架構的演進與學習筆記。",
+  "source": "@site/i18n/zh-HK/docusaurus-plugin-content-docs/current/deep-learning/cv/yolo-series/index.mdx",
+  "sourceDirName": "deep-learning/cv/yolo-series",
+  "slug": "/deep-learning/cv/yolo-series/",
+  "permalink": "/knowledge-base/zh-HK/docs/deep-learning/cv/yolo-series/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/cv/yolo-series/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WTS 橋接",
+    "permalink": "/knowledge-base/zh-HK/docs/deep-learning/fundamental/wts-bridge"
+  },
+  "next": {
+    "title": "TrackNet",
+    "permalink": "/knowledge-base/zh-HK/docs/deep-learning/cv/tracknet/"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "deep-learning/pytorch-tutorial/core-components/training-engineering",
+  "title": "Training Engineering",
+  "description": "Core components for engineering robust PyTorch training pipelines, from loss functions to deployment preparation.",
+  "source": "@site/docs/deep-learning/pytorch-tutorial/02-core-components/04-training-engineering.mdx",
+  "sourceDirName": "deep-learning/pytorch-tutorial/02-core-components",
+  "slug": "/deep-learning/pytorch-tutorial/core-components/training-engineering",
+  "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/core-components/training-engineering",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/claranatalie01/knowledge-base/tree/main/docs/deep-learning/pytorch-tutorial/02-core-components/04-training-engineering.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Training Engineering",
+    "description": "Core components for engineering robust PyTorch training pipelines, from loss functions to deployment preparation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Loss Functions",
+    "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/core-components/optimization/loss-functions"
+  },
+  "next": {
+    "title": "Data Pipeline Optimization",
+    "permalink": "/knowledge-base/docs/deep-learning/pytorch-tutorial/performance-optimization/data-pipeline"
+  }
+}
