@@ -7,7 +7,7 @@ import rehypeKatex from 'rehype-katex';
 
 const config: Config = {
   title: 'Knowledge Base',
-  tagline: 'Internal knowledge base for SAILTECHTEAM',
+  tagline: 'Internal knowledge base (personal fork)',
   favicon: 'img/favicon.ico',
 
   future: {
@@ -24,10 +24,10 @@ const config: Config = {
     },
   },
 
-  url: 'https://sailtechteam.github.io',
+  url: 'https://claranatalie01.github.io',
   baseUrl: '/knowledge-base/',
 
-  organizationName: 'SAILTECHTEAM',
+  organizationName: 'claranatalie01',
   projectName: 'knowledge-base',
 
   onBrokenLinks: 'warn',
@@ -88,7 +88,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/SAILTECHTEAM/knowledge-base/tree/main/',
+          editUrl: 'https://github.com/claranatalie01/knowledge-base/tree/main/',
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
           showLastUpdateTime: false,
@@ -119,7 +119,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/SAILTECHTEAM/knowledge-base',
+          href: 'https://github.com/claranatalie01/knowledge-base',
           label: 'GitHub',
           position: 'right',
         },
@@ -140,11 +140,11 @@ const config: Config = {
         {
           title: 'More',
           items: [
-            {label: 'GitHub', href: 'https://github.com/SAILTECHTEAM/knowledge-base'},
+            {label: 'GitHub', href: 'https://github.com/claranatalie01/knowledge-base'},
           ],
         },
       ],
-      copyright: `Copyright \u00a9 ${new Date().getFullYear()} SAILTECHTEAM. Built with Docusaurus.`,
+      copyright: `Copyright \u00a9 ${new Date().getFullYear()} claranatalie01. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
